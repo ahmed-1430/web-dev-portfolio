@@ -8,12 +8,12 @@
   font-variation-settings:
     "wdth" 100;
 }
+
 /* hader style  */
 .header {
     background-image: url('../images/developer.png'), url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: top left, right bottom;
-    
 }
 /* header style End  */
 
@@ -27,6 +27,7 @@ nav{
 .nav-title{
     font-size: 45px;
     font-weight: 800;
+    margin: 0;
 
 }
 nav ul {
@@ -48,7 +49,7 @@ nav ul li a{
 .banner {
     display: flex;
     justify-content: space-between;
-    margin: 0 35px 0 200px;
+    margin: 50px 35px 0 200px;
 }
 .banner-greeings {
     font-size: 45px;
@@ -62,16 +63,21 @@ nav ul li a{
     font-size: 18px;
     font-weight: 400;
     color: #757575;
+    margin: 30 0 30 0;
+    padding: 0;
+    width: 585px;
 }
 .banner-profile-pic {
-    height: 580px;
+    height: 572px;
 }
 /* Banner style End  */
 /* shared style  */
 .ex-text{
     color: #FD6E0A;
 }
-
+/* /* h1, h4 {
+    margin: 0 0 0 0; 
+} */
 .dark2 {
     color: #474747;
 }
