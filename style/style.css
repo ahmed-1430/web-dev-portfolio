@@ -159,6 +159,21 @@ main {
 }
 /* resume section style end  */
 
+/* footer style  */
+footer {
+    padding: 130px;
+    display: flex;
+}
+.social-icon {
+    font-size: 30px;
+}
+.social-icon i {
+    margin-right: 20px;
+    color: #FD6E0A;
+    cursor: pointer;
+}
+/* footer style End  */
+
 /* shared style  */
 .secodary-bg {
     background-color: #FFF8F3;
