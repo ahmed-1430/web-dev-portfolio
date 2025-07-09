@@ -122,6 +122,13 @@ main {
 }
 /* skills container style end  */
 
+/* resume section style  */
+.resume-container {
+    display: flex;
+    gap: 24px;
+}
+/* resume section style end  */
+
 /* shared style  */
 .secodary-bg {
     background-color: #FFF8F3;
