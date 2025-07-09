@@ -11,6 +11,7 @@
 
 /* hader style  */
 .header {
+    
     background-image: url('../images/developer.png'), url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: top left, right bottom;
@@ -68,10 +69,31 @@ nav ul li a{
     width: 585px;
 }
 .banner-profile-pic {
-    height: 572px;
+    /* height: 572px; */
 }
 /* Banner style End  */
+
+/* About Style  */
+.about {
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+
+}
+/* About Style End  */
+
+/* main style  */
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* main style end  */
+
 /* shared style  */
+.secodary-bg {
+    background-color: #FFF8F3;
+}
 .ex-text{
     color: #FD6E0A;
 }
@@ -91,5 +113,15 @@ nav ul li a{
     border: none;
     cursor: pointer;
 }
+.section-title {
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.section-description {
+    font-size: 18px;
+    color: #757575;
+}
+
 
         /* shared style End  */
