@@ -81,6 +81,19 @@ nav ul li a{
     margin-top: 130px;
 
 }
+.about .about-items {
+    display: flex;
+    justify-content: space-around;
+}
+.about .item-title {
+    font-size: 20px;
+    color: #757575;
+}
+.about .item-description {
+    font-size: 20px;
+    font-weight: 700;
+    color: #474747;
+}
 /* About Style End  */
 
 /* main style  */
