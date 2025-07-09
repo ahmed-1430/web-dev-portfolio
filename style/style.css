@@ -102,6 +102,7 @@ main {
 /* main style end  */
 
 /* skills container style  */
+
 .skills-container {
     display: flex;
     gap: 24px;
@@ -152,6 +153,10 @@ main {
 .section-description {
     font-size: 18px;
     color: #757575;
+    line-height: 30px;
+}
+.text-center {
+    text-align: center;
 }
 
 
